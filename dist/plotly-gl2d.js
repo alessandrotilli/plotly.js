@@ -1,5 +1,5 @@
 /**
-* plotly.js (gl2d) v3.0.1
+* plotly.js (gl2d) v3.0.3-beta.0
 * Copyright 2012-2025, Plotly, Inc.
 * All rights reserved.
 * Licensed under the MIT license
@@ -52,7 +52,7 @@ var Plotly = (() => {
   var require_version = __commonJS({
     "src/version.js"(exports) {
       "use strict";
-      exports.version = "3.0.1";
+      exports.version = "3.0.3-beta.0";
     }
   });
 
@@ -13751,10 +13751,10 @@ var Plotly = (() => {
     }
   });
 
-  // stylePlugin:/Users/ekl/code/plotly.js/node_modules/maplibre-gl/dist/maplibre-gl.css
+  // stylePlugin:/Users/ale/dev/plotly.js/node_modules/maplibre-gl/dist/maplibre-gl.css
   var maplibre_gl_exports = {};
   var init_maplibre_gl2 = __esm({
-    "stylePlugin:/Users/ekl/code/plotly.js/node_modules/maplibre-gl/dist/maplibre-gl.css"() {
+    "stylePlugin:/Users/ale/dev/plotly.js/node_modules/maplibre-gl/dist/maplibre-gl.css"() {
       init_maplibre_gl();
     }
   });
